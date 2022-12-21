@@ -66,6 +66,13 @@
     max-width: 90vw;
     margin: auto;
 }
+.main-container1 a{
+    text-decoration: none;
+}
+
+.main-container1 a:hover{
+    color: white;
+}
 
 
 .abouts{
@@ -142,7 +149,7 @@
 
 
 .blog-content h2{
-    color: white;
+/*     color: white; */
     font-size: 2rem;
     text-align: center;
     padding-top: 10px;
