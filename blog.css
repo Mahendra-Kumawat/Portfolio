@@ -1,0 +1,27 @@
+.blog{
+    padding: 12px 2rem;
+}
+.blog h2{
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace  ;
+    font-size: 2rem;
+}
+.blog p{
+    padding: 8px 13px 0px 13px;
+}
+.blog1{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    background-color:  #0a757b;
+    margin: 1rem;
+    padding: 1rem 0;
+    color: white;
+    border-radius: 15px;
+}
+
+.blog1 h3{
+    padding: 12px;
+    font-size: 1.5rem;
+}
